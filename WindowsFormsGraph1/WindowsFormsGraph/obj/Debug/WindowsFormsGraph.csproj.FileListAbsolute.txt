@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\bin\Debug\WindowsFormsGraph.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\bin\Debug\WindowsFormsGraph.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\bin\Debug\WindowsFormsGraph.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\obj\Debug\WindowsFormsGraph.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\obj\Debug\WindowsFormsGraph.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\obj\Debug\WindowsFormsGraph.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\obj\Debug\WindowsFormsGraph.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\obj\Debug\WindowsFormsGraph.pdb
+C:\Users\Asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\WindowsFormsGraph\obj\Debug\WindowsFormsGraph.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\GraphicsPath\bin\Debug\GraphicsPath.exe.config
+C:\Users\Asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\GraphicsPath\obj\Debug\WindowsFormsGraphicsPath.Form1.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\GraphicsPath\obj\Debug\GraphicsPath.Properties.Resources.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\WindowsFormsGraph1\GraphicsPath\obj\Debug\GraphicsPath.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\GraphicsPath\obj\Debug\GraphicsPath.csprojResolveAssemblyReference.cache

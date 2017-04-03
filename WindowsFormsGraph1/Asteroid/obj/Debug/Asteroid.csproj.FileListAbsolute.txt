@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\bin\Debug\Asteroid.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\bin\Debug\Asteroid.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\bin\Debug\Asteroid.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\obj\Debug\Asteroid.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\obj\Debug\Asteroid.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\obj\Debug\Asteroid.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\obj\Debug\Asteroid.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WindowsFormsGraph1\Asteroid\obj\Debug\Asteroid.pdb
