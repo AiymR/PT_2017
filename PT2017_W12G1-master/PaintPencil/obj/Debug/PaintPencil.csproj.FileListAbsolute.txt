@@ -1,0 +1,8 @@
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\bin\Debug\PaintPencil.exe.config
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\bin\Debug\PaintPencil.exe
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\bin\Debug\PaintPencil.pdb
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\obj\Debug\PaintPencil.Form1.resources
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\obj\Debug\PaintPencil.Properties.Resources.resources
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\obj\Debug\PaintPencil.csproj.GenerateResource.Cache
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\obj\Debug\PaintPencil.exe
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\PaintPencil\obj\Debug\PaintPencil.pdb

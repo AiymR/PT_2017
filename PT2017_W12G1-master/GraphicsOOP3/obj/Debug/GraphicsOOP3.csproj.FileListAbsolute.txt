@@ -1,0 +1,9 @@
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\bin\Debug\GraphicsOOP3.exe.config
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\bin\Debug\GraphicsOOP3.exe
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\bin\Debug\GraphicsOOP3.pdb
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\obj\Debug\GraphicsOOP3.csprojResolveAssemblyReference.cache
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\obj\Debug\GraphicsOOP3.Form1.resources
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\obj\Debug\GraphicsOOP3.Properties.Resources.resources
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\obj\Debug\GraphicsOOP3.csproj.GenerateResource.Cache
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\obj\Debug\GraphicsOOP3.exe
+C:\Users\a_raikhanova\Downloads\PT2017_W12G1-master\GraphicsOOP3\obj\Debug\GraphicsOOP3.pdb
