@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\bin\Debug\Clock.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\obj\Debug\Clock.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\obj\Debug\Clock.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\bin\Debug\Clock.exe
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\bin\Debug\Clock.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\obj\Debug\Clock.exe
+c:\users\asus\documents\visual studio 2015\Projects\ClockAnalogue\Clock\obj\Debug\Clock.pdb
